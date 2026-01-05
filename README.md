@@ -1,2 +1,8 @@
-Engineering-focused time-series data analysis project for industrial systems,
-demonstrating anomaly detection and condition monitoring using Python.
+## Scripted Analysis
+
+In addition to exploratory notebooks, this project includes a standalone
+Python script (`scripts/anomaly_detection.py`) that implements the full
+analysis pipeline for batch or automated execution.
+
+This reflects real-world industrial analytics workflows where analysis
+must be repeatable, auditable, and production-ready.
