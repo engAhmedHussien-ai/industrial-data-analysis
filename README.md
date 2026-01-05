@@ -16,3 +16,12 @@ and operating hours.
 
 This reflects common industrial and energy-management use cases,
 including performance benchmarking and efficiency analysis.
+
+## Reports & Business Insights
+
+The `/reports` directory contains automatically generated plots
+and a business-focused insights summary (`INSIGHTS.md`) that
+translate analytical results into operational recommendations.
+
+This mirrors real-world industrial analytics deliverables for
+engineering, maintenance, and management stakeholders.
